@@ -1,0 +1,41 @@
+[{
+    "marca":"chocolatory",
+    "producto":"barra chocolate",
+    "precio": 200,
+    "stock": 250,
+    "img": "barrachocolatory.jpg"
+},
+
+
+{
+    "marca":"dr. Cacao",
+    "producto":"barra chocolate",
+    "precio": 200,
+    "stock": 150,
+    "img": "barradrcacao.jpg"
+},
+
+{
+    "marca":"WOOW",
+    "producto":"bocadito de dulce de leche",
+    "precio": 100,
+    "stock": 350,
+    "img": "woow.jpg"
+},
+
+{
+    "marca":"Mantecol",
+    "producto":"barra mantecol",
+    "precio": 250,
+    "stock": 550,
+    "img": "mantecol.jpg"
+},
+
+{
+    "marca":"bon o bon",
+    "producto":"crema sabor avellana",
+    "precio": 400,
+    "stock": 550,
+    "img": "relleno_bonobon.jpg"
+}
+]
